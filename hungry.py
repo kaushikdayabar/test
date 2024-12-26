@@ -5,6 +5,7 @@ if hungry=="yes":
     print("pizza")
     print("pizza 45")
     print("burger")
+    print("code basics")
 else:
     print("Do Homework")
 
